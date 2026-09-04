@@ -48,6 +48,6 @@ Repository Contents
 
 Certificate
 
-📜 "View Certificate" (./APSSDC-Embedded-Systems-Internship-Certificate.pdf)
+📜 [View Certificate](./APSSDC-Embedded-Systems-Internship-Certificate.pdf)
 
 Certificate No.: "APSSDC/25/INT/ES-0286"
